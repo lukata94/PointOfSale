@@ -1,0 +1,3 @@
+cheese: 2.80
+tomato: 1.80
+Total: 4.60
